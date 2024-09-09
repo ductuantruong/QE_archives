@@ -4,7 +4,7 @@
 1) QE report in PDF & Latex.
 3) Required Documents need to be submitted.
 2) Presentation Slides (with questions from the committee at the end).
-3) Presentation Video Link: TBA. 
+3) Presentation Video: [link](https://youtu.be/NNTUusWo_iI). 
 
 **<ins>Lessons I learned from preparing my QE</ins>:**
 1) Structure your report and slides like a story (Introduction -> Current Problems -> Existing Solutions -> Motivation -> Proposed Methods).
